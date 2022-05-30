@@ -23,9 +23,9 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat")
 ![HTML5](https://img.shields.io/badge/-HTML5-333.svg?logo=html5&style=flat")
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?logo=SASS&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white)
+![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?logo=vuetify&logoColor=AEDDFF)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?logo=jquery&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Nginx](https://img.shields.io/badge/-Nginx-bfcfcf.svg?logo=nginx&style=flat)
 ![Redis](https://img.shields.io/badge/-Redis-D82C20.svg?logo=redis&style=flat)
@@ -36,10 +36,10 @@
 ![Linux](https://img.shields.io/badge/-Linux-6C6694.svg?logo=linux&style=flat")
 ![Vim](https://img.shields.io/badge/-Vim-019733.svg?logo=vim&style=flat)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC.svg?logo=visual-studio-code&style=flat")
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![CircleCI](https://img.shields.io/badge/circle%20ci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?logo=githubactions&logoColor=white)
+![CircleCI](https://img.shields.io/badge/circle%20ci-%23161616.svg?logo=circleci&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?logo=figma&logoColor=white)
 
 ### 🔍 Where to find me
 
