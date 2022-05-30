@@ -7,9 +7,6 @@
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=kzy52&theme=onedark&show_icons=ture" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kzy52&theme=onedark&column=7
-)](https://github.com/ryo-ma/github-profile-trophy)
-
 ### 🛠 Tech
 
 ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=Ruby)
