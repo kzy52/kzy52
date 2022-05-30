@@ -1,19 +1,5 @@
 ### Hi there 👋
 
-### 🔍 Where to find me
-
-<p>
-  <a href="https://kzy52.com" target="_blank">
-    <img alt="Twitter" src="https://img.shields.io/badge/Blog-%23FF4088.svg?&style=for-the-badge&logo=hugo&logoColor=white" />
-  </a>
-  <a href="https://github.com/kzy52" target="_blank">
-    <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/kzy52" target="_blank">
-    <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-</p>
-
 ### 📊 Stats
 
 <p align="left"> 
@@ -55,6 +41,20 @@
 ![CircleCI](https://img.shields.io/badge/circle%20ci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+### 🔍 Where to find me
+
+<p>
+  <a href="https://kzy52.com" target="_blank">
+    <img alt="Twitter" src="https://img.shields.io/badge/Blog-%23FF4088.svg?&style=for-the-badge&logo=hugo&logoColor=white" />
+  </a>
+  <a href="https://github.com/kzy52" target="_blank">
+    <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/kzy52" target="_blank">
+    <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+</p>
 
 <!--
 **kzy52/kzy52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
